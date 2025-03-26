@@ -218,7 +218,7 @@ You can customize all strings (labels & texts) and the complete theme using labe
 
 ## Complete example
 
-You can find the complete example in `example/App.tsx` file
+You can find the complete example in [example/App.tsx](https://github.com/GuavaPay/myguava-business-payment-sdk-react-native/blob/main/example/App.tsx) file
 
 ## Advanced customization
 `GuavapayPayments` is a pre-configured root components which includes all supported payment methods.
