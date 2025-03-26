@@ -3,7 +3,6 @@
 .DS_Store
 
 # VSCode
-.vscode/
 jsconfig.json
 
 # Xcode
@@ -59,3 +58,4 @@ yarn-error.log
 # Local
 .local/
 .env*.local
+config.bat

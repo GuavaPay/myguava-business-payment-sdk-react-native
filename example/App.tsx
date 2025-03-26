@@ -30,7 +30,7 @@ const orderRequest = {
     id: "52",
     contactEmail: "test-example@example.com",
     contactPhone: {
-      fullNumber: "+994517578357",
+      fullNumber: "+994111111111",
     },
   },
 };
