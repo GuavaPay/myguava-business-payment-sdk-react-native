@@ -1,6 +1,6 @@
 {
-  "name": "@guavapay-npm/guavapay-react-native",
-  "version": "0.1.10",
+  "name": "@guavapay/myguava-business-payment-sdk-react-native",
+  "version": "0.1.11",
   "description": "Guavapay React Native Module",
   "main": "build/index.js",
   "types": "build/index.d.ts",
