@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "GuavapayReactNativeModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.guavapayreactnative.GuavapayReactNativeModule"
+    ]
+  }
+}
